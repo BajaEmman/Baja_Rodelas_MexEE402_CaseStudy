@@ -10,7 +10,7 @@ Batangas State University, Alangilan Campus
 | Name | Student Number | Section |
 |---|---|---|
 | Baja, Alessandro Emmanuel | 22-02799 | MEXE-4103 |
-| Surname, First Name | | |
+| Rodelas, Micah Nicolette V. | 22-09809 | MEXE-4103 |
 
 ## Notebook links
 
