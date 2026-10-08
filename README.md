@@ -9,7 +9,7 @@ Batangas State University, Alangilan Campus
 
 | Name | Student Number | Section |
 |---|---|---|
-| Surname, First Name | | |
+| Baja, Alessandro Emmanuel | | |
 | Surname, First Name | | |
 
 ## Notebook links
