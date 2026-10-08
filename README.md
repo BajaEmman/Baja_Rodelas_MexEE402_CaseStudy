@@ -9,7 +9,7 @@ Batangas State University, Alangilan Campus
 
 | Name | Student Number | Section |
 |---|---|---|
-| Baja, Alessandro Emmanuel | | |
+| Baja, Alessandro Emmanuel | 22-02799 | MEXE-4103 |
 | Surname, First Name | | |
 
 ## Notebook links
