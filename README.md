@@ -16,13 +16,16 @@ Batangas State University, Alangilan Campus
 
 | Chapter | Member 1 | Member 2 |
 |---|---|---|
-| Ch1_2_3 | [link](https://colab.research.google.com/drive/12ljgN4Mh8o-4-7vRpY83FBe5rNkRmmBF?usp=sharing) | [link]() |
-| Ch4 | [link](https://colab.research.google.com/drive/1XGAYWmoQBC4WSze-kV2jNnazMGmid1Hs?usp=sharing) | [link]() |
-| Ch5 | [link](https://colab.research.google.com/drive/1DLbQPYTfUg1tUnsoKJzVqVwF-htqIsj1?usp=sharing) | [link]() |
-| Ch6 | [link](https://colab.research.google.com/drive/1IUycKeWbfTAvS0p0CeashfOyx4Pl2BeS?usp=sharing) | [link]() |
-| Ch7 | [link](https://colab.research.google.com/drive/1vHVo3pS3BrNwe2xnB0DO4wT10wHLunI_?usp=sharing) | [link]() |
-| Ch8 | [link](https://colab.research.google.com/drive/1Smqqs2LpQ3CBcPfNEOUJoDkQJOHux148?usp=sharing) | [link]() |
-| Ch9 | [link](https://colab.research.google.com/drive/1dajaJFgADqw8FV10KRkl_EshQxu4gASs?usp=sharing) | [link]() |
+| Ch1_2_3 | [link](https://colab.research.google.com/drive/12ljgN4Mh8o-4-7vRpY83FBe5rNkRmmBF?usp=sharing) | [link](https://colab.research.google.com/drive/1BJ0q-GGVSQzH0UF0zf81FExTsaY6_H30?usp=sharing) |
+| Ch4 | [link](https://colab.research.google.com/drive/1XGAYWmoQBC4WSze-kV2jNnazMGmid1Hs?usp=sharing) | [link](https://colab.research.google.com/drive/19-Bp1pnxt6XgYzhgEjYSdcBN5buR_BKG?usp=sharing) |
+| Ch5 | [link](https://colab.research.google.com/drive/1DLbQPYTfUg1tUnsoKJzVqVwF-htqIsj1?usp=sharing) | [link](https://colab.research.google.com/drive/100U7mHagTOv5EiiU3JunlGQGcHDva3Ta?usp=sharing
+) |
+| Ch6 | [link](https://colab.research.google.com/drive/1IUycKeWbfTAvS0p0CeashfOyx4Pl2BeS?usp=sharing) | [link](https://colab.research.google.com/drive/1CkfcwHw_5Q7-8EOHWS7EE3j1akWUo4V7?usp=sharing) |
+| Ch7 | [link](https://colab.research.google.com/drive/1vHVo3pS3BrNwe2xnB0DO4wT10wHLunI_?usp=sharing) | [link](https://colab.research.google.com/drive/1r6e7mq3LivNEW9DnsvZwkCzHytBDwdZi?usp=sharing
+) |
+| Ch8 | [link](https://colab.research.google.com/drive/1Smqqs2LpQ3CBcPfNEOUJoDkQJOHux148?usp=sharing) | [link](https://colab.research.google.com/drive/1CSVwYXXuuFvszBsrVEp4kFkCsavHdgA5?usp=sharing
+) |
+| Ch9 | [link](https://colab.research.google.com/drive/1dajaJFgADqw8FV10KRkl_EshQxu4gASs?usp=sharing) | [link](https://colab.research.google.com/drive/19eCEGq9R3ESB_7X_bXnIefOns7Hf0Li-?usp=sharing) |
 
 ## What we learned ❓💡
 
