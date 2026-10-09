@@ -62,8 +62,9 @@ There are real ones in there. Finding them earns points.
 
 ## Note on AI tools 📋🤖
 
-Emman used ChatGPT for better understanding of what was happening at Ch5.
-Micah used ChatGPT to understand more the code running in Chapter 6 and Chapter 9.
+Emman used ChatGPT for better understanding of what was happening at Chapter 5.
+
+Micah used ChatGPT to understand more the codes running, and asked about what I have noticed to gain more knowledge about it.
 
 ## References 🔍📚
 
