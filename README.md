@@ -35,7 +35,11 @@ Ch1_2_3:
 
 Ch4:
 
+  In this chapter, I learned how to convert numerical data into categorized data. I learned what's the difference between One-hot encoding and Ordinal Encoding. One-hot encoding assigns 1 = True and 0 = False while Ordinal encoding follows an order. I remember the examples used as something like small, medium, and lots while the other is sunny, cloudy, and rainy. The major difference in this is that small, medium, and lots are in order while the other is in no order since there is no factual evidence to prove that cloudy happens after sunny and vice versa.
+
 Ch5:
+
+ During this chapter, I learned how Data Scaling works. It basically scales the data closer to 0 and 1 so that it can be easier to compare. Scaling also ensures that both of the data given contributes fairly to the model. I remember in this chapter the example given is the grades and their study hours. Specifically for this example, scaling would be used. But not all times scaling has to be used, it just depends on the nature of the data. 
 
 ## Errors we found ⚠️🚫
 
@@ -44,8 +48,7 @@ There are real ones in there. Finding them earns points.
 
 ## Note on AI tools 📋🤖
 
-Say whether you used an AI tool, and what for. This is not a penalty.
-Hiding it is.
+I just used ChatGPT for better understanding of what was happening at Ch5.
 
 ## References 🔍📚
 
