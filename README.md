@@ -40,11 +40,11 @@ Chapter 5:
 
  Chapter 6:
  
-   I became aware of what is an outliers. I learned how to identify outliers with the Z-score and IQR methods, and notice it differences while simulating the code. The outliers found using these two methods can be different. I also learned about capping and flooring, log transformation and removing outliers when appropriate and needed.
+   I became aware of what is an outliers. I learned how to identify outliers with the Z-score and IQR methods, and notice it differences while simulating the code. The outliers found using these two methods can be different. I also learned about capping and flooring, some for log transformation and removing outliers when appropriate and needed.
 
 Chapter 7:
 
-  I learned that feature selection can reduce irrelevant features and simplify a model. I also learned that different feature-selection methods can choose different features because they evaluate feature importance in different ways. How LassoCV is taking absolute value of the coefficient. How RFECV worsks, step by step and how it wprks to get and select the best feature set, I notice the many writings while running it and ask for help with AI to learn and to prevent it.
+  I learned that feature selection can reduce irrelevant features and simplify a model. I also learned that different feature-selection methods can choose different features because they evaluate feature importance in different ways. How LassoCV method is taking the absolute value of the coefficient. How RFECV worsks, step by step and how it works to get and select the best feature set. I notice the many writings while running it and ask for help with AI to learn and to prevent it, and somehow I learned that changing and selecting the number of folds affect the output but doesn't mean that the code itself is wrong. 
   
 Chapter 8:
 
