@@ -30,6 +30,7 @@ One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
 you and what surprised you. Not what the library does, but what you understood.
 
 Ch1_2_3:
+  I learned that Data Pre-processing is important. Since raw data is sometimes messy and incomplete, it is better to re-arrange or pre-process it so that we can save resources such as time and effort later on. This chapter also gave me a brief insight about head, info, and describe. Head gives out the first five rows of the dataset. Info gives a brief overview of the dataset. Describe gives a statistical summary of the dataset.
 
 Ch4:
 
