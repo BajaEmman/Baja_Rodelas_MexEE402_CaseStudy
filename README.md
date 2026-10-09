@@ -39,15 +39,19 @@ Chapter 5:
   During this chapter, I learned how Data Scaling works. It basically scales the data closer to 0 and 1 so that it can be easier to compare. Scaling also ensures that both of the data given contributes fairly to the model. I remember in this chapter the example given is the grades and their study hours. Specifically for this example, scaling would be used. But not all times scaling has to be used, it just depends on the nature of the data. 
 
  Chapter 6:
+ 
    I became aware of what is an outliers. I learned how to identify outliers with the Z-score and IQR methods, and notice it differences while simulating the code. The outliers found using these two methods can be different. I also learned about capping and flooring, log transformation and removing outliers when appropriate and needed.
 
 Chapter 7:
+
   I learned that feature selection can reduce irrelevant features and simplify a model. I also learned that different feature-selection methods can choose different features because they evaluate feature importance in different ways. How LassoCV is taking absolute value of the coefficient. How RFECV worsks, step by step and how it wprks to get and select the best feature set, I notice the many writings while running it and ask for help with AI to learn and to prevent it.
   
 Chapter 8:
+
   I learned from this chapter that Pipeline can combine preprocessing steps and make them run in the correct order. From SimpleImputer and StandardScaler, I learned how to handle missing values and scale numerical data. From ColumnTransformer, I learned how to apply specific preprocessing to selected columns. This makes the preprocessing process more organized, consistent, and easier to reuse.
   
 Chapter 9:
+
   I discovered that numerical and categorical columns have different pre-processing methods. Numerical data can be imputed and scaled, and categorical data can be imputed and one-hot encoded. I also had to learn about discretization,a process of turning a continuous value into a set of distinct, labeled groups. Like how Age was divided into Child, Adult, and Elderly tomake patterns easier to interpret. Most importantly, verification and checking is a must, don't assume.
 
 
