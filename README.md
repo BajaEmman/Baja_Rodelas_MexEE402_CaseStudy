@@ -45,7 +45,7 @@ There are real ones in there. Finding them earns points.
 
 ## Note on AI tools 📋🤖
 
-I just used ChatGPT for better understanding of what was happening at Ch5.
+Emman used ChatGPT for better understanding of what was happening at Ch5.
 
 ## References 🔍📚
 
